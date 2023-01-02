@@ -1,10 +1,4 @@
-# ICT-Architecture
-## This is the Backend for the App
-
-npm install
-npm start
-
-# **API**
+# **AWS**
 UPLOAD:
 
 GET https://hek46ulrnc.execute-api.us-east-1.amazonaws.com/prod/upload?file={FILE.EXTENSION}
